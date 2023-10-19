@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    border: 0;
+}
+body{
+    height: 100vh;
+}
+.image img{
+    width: 100px;
+    height: 150px;
+}
+.image img{
+    margin-left: 680px;
+}
+.nav{
+    height: 60px;
+    width: 1000px;
+    background-color: white;
+    display: flex;
+
+}
+.name img{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 30px;
+    
+    color: black;
+    width: 30%;
+    height: 90%;
+}
+.nav{
+    width: 100%;
+
+}
+.navbar a{
+    text-decoration: none;
+   margin-left: 10px;
+   font-size: large;
+   color: black;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.three,input{
+    color: black;
+    border: 2px;
+    width: 22%;
+    height: 4vh;
+    align-items: center;
+    font-size: large;
+    margin-left: 100px;
+}
+.homeimg{
+    height: 100vh;
+}
+.homeimg img{
+    width: 50%;
+    height: 80%;
+    margin-left: 350px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+
+}
+.next{
+    font-size: larger;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    margin-left: 40px;
+}
+
+.program-section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.program {
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

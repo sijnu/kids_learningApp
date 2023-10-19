@@ -1,0 +1,113 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    border: 0;
+}
+body{
+    height: 100vh;
+}
+.image img{
+    width: 100px;
+    height: 150px;
+}
+.image img{
+    margin-left: 680px;
+}
+.nav{
+    height: 60px;
+    width: 1000px;
+    background-color: white;
+    display: flex;
+
+}
+.name img{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 30px;
+    
+    color: black;
+    width: 30%;
+    height: 90%;
+}
+.nav{
+    width: 100%;
+
+}
+.navbar a{
+    text-decoration: none;
+   margin-left: 10px;
+   font-size: large;
+   color: black;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.three,input{
+    color: black;
+    border: 2px;
+    width: 22%;
+    height: 4vh;
+    align-items: center;
+    font-size: large;
+    margin-left: 100px;
+}
+.two img{
+    height: 50%;
+    width: 50%;
+    margin-top: 40px;
+    margin-left: 140px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+
+}
+.two h1{
+    margin-left: 130px;
+}
+.thre img{
+   height: 50%;
+   width: 70%;
+   margin-top: 30px;
+border-left: 40px;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.thre h1{
+    margin-left: 10px;
+}
+.four img{
+    height:50%;
+    width: 70%;
+    margin-left: 90px;
+    margin-top: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.four h1{
+    margin-left: 60px;
+}
+.one{
+    display: flex;
+    height: 60vh;
+}
+.t2-t2 img{
+    height: 90%;
+    width: 45%;
+    margin-left: 350px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    
+}
+.t2-t2 h1{
+       margin-left: 350px;
+}
+.t3-t3 img{
+    height: 90%;
+    width: 50%;
+    margin-left: 80px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+
+}
+.t3-t3 h1{
+    margin-left: 80px;
+}
+.one-one{
+    display: flex;
+    height: 40vh;
+}
+.page{
+    height: 100vh;
+}
